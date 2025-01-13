@@ -15,3 +15,8 @@ GET: localhost:3000/logs/all
 API for fetch server specific logs
 
 GET: localhost:3000/logs/:id
+
+TO fetch serverwise logs</br>
+for server 1: localhost:3000/logs/1</br>
+for server 2: localhost:3000/logs/2</br>
+for server 3: localhost:3000/logs/3
